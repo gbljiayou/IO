@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="com.alibaba.p3c.smartfox" />
+    <plugin id="com.github.wangji92.arthas.plugin" />
+    <plugin id="com.intellij.diagram" />
+    <plugin id="com.yiycf.plugins.mavenDependencyHelper" />
+  </component>
+</project>
